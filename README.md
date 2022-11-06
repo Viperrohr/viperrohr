@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Analista de Operações Digitais pela Capgemini, atualmente estou aprendendo HTML, CSS e JavaScript
+    Sou Analista de Operações Digitais pela <a href="https://www.capgemini.com/br-pt/nossa-empresa/">Capgemini</a>, atualmente estou aprendendo HTML, CSS e JavaScript
   </p>
   
   <p align="center">
@@ -46,6 +46,8 @@
   ![Snake animation](https://github.com/viperrohr/viperrohr/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+##
 
 <div align="center">
   <p>Feito com :heart: e JavaScript.</p>
