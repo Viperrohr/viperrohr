@@ -9,9 +9,9 @@
     Sou graduando em Analise e Desenvolvimento de Sistemas e atualmente estou aprendendo HTML, CSS e JavaScript.
   </p>
   
-  <p align="center">
+ <!-- <p align="center">
     Trabalho como Analista de Operações Digitais pela <a href="https://www.capgemini.com/br-pt/nossa-empresa/">Capgemini</a>.
-  </p>
+  </p> -->
   
   <p align="center">
 
