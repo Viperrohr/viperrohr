@@ -10,7 +10,7 @@
   </p>
   
  <p align="center">
-    Trabalho como Assistente de Dados na <a href="https://www.avansat.com.br/">Avansat</a>.
+    Trabalho como Assistente de Dados na <a href="https://www.avansat.com.br/">Avansat Tecnologias</a>.
   </p>
   
   <p align="center">
