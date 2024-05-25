@@ -6,12 +6,12 @@
   </h1>
   
   <p align="center">
-    Sou graduando em Analise e Desenvolvimento de Sistemas e atualmente estou aprendendo HTML, CSS e JavaScript.
+    Sou graduado em Analise e Desenvolvimento de Sistemas e atualmente estou aprendendo Python.
   </p>
   
- <!-- <p align="center">
-    Trabalho como Analista de Operações Digitais pela <a href="https://www.capgemini.com/br-pt/nossa-empresa/">Capgemini</a>.
-  </p> -->
+ <p align="center">
+    Trabalho como Assistente de Dados na <a href="https://www.avansat.com.br/">Avansat</a>.
+  </p>
   
   <p align="center">
 
@@ -30,8 +30,8 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Java" height="30" width="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="30" width="40" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <!-- <img align="center" alt="VueJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
   <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
